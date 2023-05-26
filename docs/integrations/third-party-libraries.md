@@ -21,6 +21,7 @@ This can be done using third-party libraries created by the community.
 - [derive-zustand](https://github.com/dai-shi/derive-zustand) — A function to create a derived Zustand store from other Zustand stores.
 - [geschichte](https://github.com/BowlingX/geschichte) — Zustand and Immer-based hook to manage query parameters.
 - [mobz](https://github.com/2A5F/Mobz) — Zustand-style MobX API.
+- [leiten-zustand](https://github.com/hecmatyar/leiten-zustand) — Cleans your store from boilerplate for requests and data transformation.
 - [ngx-zustand](https://github.com/JoaoPauloLousada/ngx-zustand) - A Zustand adapter for Angular.
 - [shared-zustand](https://github.com/Tom-Julux/shared-zustand) — Cross-tab state sharing for Zustand.
 - [simple-zustand-devtools](https://github.com/beerose/simple-zustand-devtools) — 🐻⚛️ Inspect your Zustand store in React DevTools.
@@ -33,7 +34,6 @@ This can be done using third-party libraries created by the community.
 - [zustand-constate](https://github.com/ntvinhit/zustand-constate) — Context-based state management based on Zustand and taking ideas from Constate.
 - [zustand-computed](https://github.com/chrisvander/zustand-computed) — A Zustand middleware to create computed states.
 - [zustand-di](https://github.com/charkour/zustand-di) - use react props to init zustand stores
-- [zustand-fetching](https://github.com/hecmatyar/zustand-fetching) — Cleans your store from boilerplate for requests and data transformation.
 - [zustand-forms](https://github.com/Conduct/zustand-forms) — Fast, type safe form states as Zustand stores.
 - [zustand-middleware-computed-state](https://github.com/cmlarsen/zustand-middleware-computed-state) — A dead simple middleware for adding computed state to Zustand.
 - [zustand-middleware-xstate](https://github.com/biowaffeln/zustand-middleware-xstate) — A middleware for putting XState state machines into a global Zustand store.
